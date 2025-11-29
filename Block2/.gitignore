@@ -1,0 +1,23 @@
+# Yoksayılacak Ana Klasörler
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+
+# Unity tarafından oluşturulan dosyalar
+.DS_Store
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.vs/
+.idea/
